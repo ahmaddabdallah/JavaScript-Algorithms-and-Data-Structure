@@ -1,0 +1,87 @@
+# JavaScript Algorithms and Data Structures
+
+This repository contains a comprehensive collection of JavaScript algorithms and data structures implementations, along with detailed explanations of their concepts and complexities.
+
+## Course Structure
+
+The course is organized into the following main sections:
+
+1. **Introduction (01)**
+
+   - Basic concepts and fundamentals
+   - Getting started with algorithms
+
+2. **Algorithm Fundamentals (02)**
+
+   - Understanding what algorithms are
+   - Basic algorithm concepts
+
+3. **Time and Space Complexity (03)**
+
+   - Understanding algorithm efficiency
+   - Measuring performance
+
+4. **Big O Notation (04)**
+
+   - Time complexity analysis
+   - Space complexity analysis
+   - Common Big O scenarios
+
+5. **Objects and Arrays Big-O (05)**
+
+   - Performance analysis of objects and arrays
+   - Common operations and their complexities
+
+6. **Math Algorithms (06)**
+
+   - Mathematical problem-solving approaches
+   - Common mathematical algorithms
+
+7. **Fibonacci Sequence (07)**
+
+   - Implementation and analysis
+   - Different approaches to Fibonacci
+
+8. **Factorial of a Number (08)**
+
+   - Implementation methods
+   - Performance considerations
+
+9. **Prime Number (09)**
+   - Prime number algorithms
+   - Optimization techniques
+
+## Additional Topics (010-080)
+
+The repository includes numerous additional topics covering various algorithms and data structures, each with its own implementation and explanation.
+
+## Getting Started
+
+To use this repository:
+
+1. Clone the repository
+2. Navigate to the specific topic you want to study
+3. Each topic contains:
+   - Implementation files
+   - Explanatory notes
+   - Example usage
+   - Performance analysis
+
+## Prerequisites
+
+- Basic understanding of JavaScript
+- Familiarity with programming concepts
+- Node.js installed (for running examples)
+
+## Contributing
+
+Feel free to contribute to this repository by:
+
+- Adding new algorithms
+- Improving existing implementations
+- Adding more detailed explanations
+- Fixing bugs or issues
+
+## License
+
+This project is open source and available under the MIT License.

@@ -5,6 +5,7 @@
         GitHub : https://github.com/akaritakai
         X.com : https://x.com/akaritakai
         Linked-In : https://www.linkedin.com/in/akaritakai/
+        CodeWares : https://www.codewars.com/users/akaritakai
 */
 
 function modulusProduct(a, b, n) {

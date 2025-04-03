@@ -30,7 +30,7 @@ function isPrime(n) {
 
 function isPrime(n) {
   if (n < 2) return false; // Big O(1)
-  for (let i = 2; i < Math.sqrt(n); i++) {
+  for (let i = 2; i <= Math.sqrt(n); i++) {
     if (n % i === 0) return false; // Big O(n)
   }
   return true; // Big O(1)

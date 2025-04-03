@@ -7,7 +7,7 @@ ObjectPairs = {
   c: 'd',
 };
 
-// Insertion - O(1)
+// Insertion At End - O(1)
 ObjectPairs['e'] = 'f';
 
 // Removal - O(1)

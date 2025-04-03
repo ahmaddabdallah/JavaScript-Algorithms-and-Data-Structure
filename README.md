@@ -48,10 +48,33 @@ The course is organized into the following main sections:
    - Performance considerations
 
 9. **Prime Number (09)**
+
    - Prime number algorithms
    - Optimization techniques
 
-## Additional Topics (010-080)
+10. **Power of Two (010)**
+
+    - Implementation and analysis
+    - Bit manipulation approaches
+
+11. **Recursion (011)**
+
+    - Understanding recursion
+    - Base cases and recursive cases
+    - Stack overflow prevention
+
+12. **Recursive Fibonacci Sequence (012)**
+
+    - Recursive implementation
+    - Performance analysis
+    - Optimization techniques
+
+13. **Recursive Factorial of a Number (013)**
+    - Recursive approach
+    - Comparison with iterative methods
+    - Stack considerations
+
+## Additional Topics (014-080)
 
 The repository includes numerous additional topics covering various algorithms and data structures, each with its own implementation and explanation.
 

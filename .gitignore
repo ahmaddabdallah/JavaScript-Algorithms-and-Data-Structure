@@ -1,0 +1,6 @@
+
+# IDE and editor files
+.vscode/
+
+# Temporary files
+.folders.bat

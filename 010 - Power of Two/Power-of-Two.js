@@ -44,5 +44,3 @@ console.log(PowerOfTwoBitWise(1)); // true
 console.log(PowerOfTwoBitWise(2)); // true
 console.log(PowerOfTwoBitWise(5)); // false
 console.log(PowerOfTwoBitWise(16)); // true
-
-// how to do this website responsive

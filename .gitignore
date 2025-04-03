@@ -6,18 +6,6 @@ yarn-error.log
 package-lock.json
 yarn.lock
 
-# Environment variables
-.env
-.env.local
-.env.*.local
-
-# IDE and editor files
-.idea/
-*.swp
-*.swo
-.DS_Store
-Thumbs.db
-
 # Build output
 dist/
 build/

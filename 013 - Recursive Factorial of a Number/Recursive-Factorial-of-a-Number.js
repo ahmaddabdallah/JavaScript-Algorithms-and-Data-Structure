@@ -45,3 +45,8 @@ function recursiveFactorial(n) {
 console.log(recursiveFactorial(4));
 console.log(recursiveFactorial(-10));
 console.log(recursiveFactorial(10));
+
+
+test = 6 * 6 + 6 / 6 - 1
+
+console.log(test)

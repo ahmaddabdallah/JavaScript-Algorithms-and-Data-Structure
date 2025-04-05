@@ -17,5 +17,3 @@ Binary Search Algorithm:
     Time Complexity: O(log n) - where n is the number of elements in the array
     Space Complexity: O(1) for iterative implementation, O(log n) for recursive implementation
 */
-
-// explanation

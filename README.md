@@ -70,11 +70,45 @@ The course is organized into the following main sections:
     - Optimization techniques
 
 13. **Recursive Factorial of a Number (013)**
+
     - Recursive approach
     - Comparison with iterative methods
     - Stack considerations
 
-## Additional Topics (014-080)
+14. **Search Algorithms Introduction (014)**
+
+    - Overview of search algorithms
+    - Basic search concepts
+
+15. **Linear Search (015)**
+
+    - Implementation and analysis
+    - Use cases and applications
+
+16. **Binary Search (016)**
+
+    - Implementation and analysis
+    - Performance characteristics
+    - Use cases
+
+17. **Data Structure Introduction (036)**
+
+    - Basic data structure concepts
+    - Types of data structures
+    - When to use different structures
+
+18. **Array Data Structure (037)**
+
+    - Array implementation
+    - Array operations and methods
+    - Performance analysis
+
+19. **Object Data Structure (038)**
+    - Object implementation
+    - Object operations and methods
+    - Performance characteristics
+
+## Additional Topics (039-080)
 
 The repository includes numerous additional topics covering various algorithms and data structures, each with its own implementation and explanation.
 
@@ -104,6 +138,9 @@ Feel free to contribute to this repository by:
 - Improving existing implementations
 - Adding more detailed explanations
 - Fixing bugs or issues
+
+## Author
+- Ahmad Abdallah
 
 ## License
 

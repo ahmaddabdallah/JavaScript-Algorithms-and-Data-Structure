@@ -4,7 +4,7 @@ let arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 
 // Array Operations
 
-// console.log(arr[0]);
+// console.log(arr[0]); // First Element in Array
 // console.log(arr[arr.length - 1]); // End Element in Array
 
 // for (let item of arr){
@@ -14,11 +14,11 @@ let arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 // 1. Adding elements
 console.log('\n--- Adding Elements ---');
 
-// Push - adds element to the end of array
+// Push - adds element to the end of array - Big O(1)
 arr.push(11);
 console.log('After push:', arr);
 
-// Unshift - adds element to the beginning of array
+// Unshift - adds element to the beginning of array - Big O (n)
 arr.unshift(0);
 console.log('After unshift:', arr);
 
@@ -46,6 +46,7 @@ console.log('After splice (remove):', arr);
 
 // 3. Finding elements
 console.log('\n--- Finding Elements ---');
+
 // indexOf - finds the first occurrence of an element
 let indexOfFour = arr.indexOf(4);
 console.log('Index of 4:', indexOfFour);
@@ -64,6 +65,7 @@ console.log('First element > 8:', foundElement);
 
 // 4. Transforming arrays
 console.log('\n--- Transforming Arrays ---');
+
 // Map - creates a new array by applying a function to each element
 let doubled = arr.map((element) => element * 2);
 console.log('Doubled array:', doubled);
@@ -78,6 +80,7 @@ console.log('Sum of all elements:', sum);
 
 // 5. Reordering arrays
 console.log('\n--- Reordering Arrays ---');
+
 // Sort - sorts the array (modifies original array)
 let sortedArray = [...arr].sort((a, b) => a - b);
 console.log('Sorted array:', sortedArray);
@@ -88,6 +91,7 @@ console.log('Reversed array:', reversedArray);
 
 // 6. Other useful methods
 console.log('\n--- Other Useful Methods ---');
+
 // Join - converts array to string with specified separator
 let joinedArray = arr.join(', ');
 console.log('Joined array:', joinedArray);

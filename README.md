@@ -104,11 +104,53 @@ The course is organized into the following main sections:
     - Performance analysis
 
 19. **Object Data Structure (038)**
+
     - Object implementation
     - Object operations and methods
     - Performance characteristics
 
-## Additional Topics (039-080)
+20. **Sets Data Structure (039)**
+
+    - Set implementation
+    - Set operations and methods
+    - Use cases and applications
+
+21. **Maps Data Structure (040)**
+
+    - Map implementation
+    - Key-value pair operations
+    - Performance characteristics
+
+22. **Stack Data Structure (041)**
+
+    - Stack implementation
+    - LIFO operations
+    - Common applications
+
+23. **Queue Data Structure (042)**
+
+    - Queue implementation
+    - FIFO operations
+    - Use cases and applications
+
+24. **Linked List Overview (047)**
+
+    - Basic linked list concepts
+    - Types of linked lists
+    - Implementation considerations
+
+25. **Linked List Class Implementation (048)**
+
+    - Class-based linked list
+    - Node structure
+    - Core operations
+
+26. **Linked List Operations (049)**
+    - Advanced linked list operations
+    - Traversal techniques
+    - Common algorithms
+
+## Additional Topics (050-080)
 
 The repository includes numerous additional topics covering various algorithms and data structures, each with its own implementation and explanation.
 
@@ -140,6 +182,7 @@ Feel free to contribute to this repository by:
 - Fixing bugs or issues
 
 ## Author
+
 - Ahmad Abdallah
 
 ## License

@@ -1,7 +1,7 @@
 {
   "type": "excalidraw",
   "version": 2,
-  "source": "https://excalidraw.com",
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
   "elements": [
     {
       "id": "O3WraUVCj7FrGqt3XQwew",
@@ -100,7 +100,7 @@
       "version": 17,
       "versionNonce": 555229931,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1744045862093,
       "link": null,
       "locked": false,
@@ -172,10 +172,7 @@
       ],
       "pressures": [],
       "simulatePressure": true,
-      "lastCommittedPoint": [
-        -33.33333333333326,
-        1.1111111111111143
-      ]
+      "lastCommittedPoint": null
     },
     {
       "id": "bIvVPrXt4H49irixs1v5U",
@@ -200,7 +197,7 @@
       "version": 13,
       "versionNonce": 417744875,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1744045862492,
       "link": null,
       "locked": false,
@@ -256,10 +253,7 @@
       ],
       "pressures": [],
       "simulatePressure": true,
-      "lastCommittedPoint": [
-        -11.111111111111086,
-        -1.1111111111111143
-      ]
+      "lastCommittedPoint": null
     },
     {
       "id": "xcwC4Van7ebAMzmJqG-7H",
@@ -284,7 +278,7 @@
       "version": 13,
       "versionNonce": 1954508011,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1744045862812,
       "link": null,
       "locked": false,
@@ -340,10 +334,7 @@
       ],
       "pressures": [],
       "simulatePressure": true,
-      "lastCommittedPoint": [
-        88.8888888888888,
-        0
-      ]
+      "lastCommittedPoint": null
     },
     {
       "id": "dyKr-JRMmunwjKNPKGO7r",
@@ -368,7 +359,7 @@
       "version": 11,
       "versionNonce": 1800549195,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1744045863104,
       "link": null,
       "locked": false,
@@ -416,10 +407,7 @@
       ],
       "pressures": [],
       "simulatePressure": true,
-      "lastCommittedPoint": [
-        28.888888888888914,
-        0
-      ]
+      "lastCommittedPoint": null
     },
     {
       "id": "nbCtFkbFCL1Dzmum6Gbbu",
@@ -444,7 +432,7 @@
       "version": 9,
       "versionNonce": 867434251,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1744045863331,
       "link": null,
       "locked": false,
@@ -484,10 +472,7 @@
       ],
       "pressures": [],
       "simulatePressure": true,
-      "lastCommittedPoint": [
-        46.66666666666674,
-        0
-      ]
+      "lastCommittedPoint": null
     },
     {
       "id": "-cqfTQeCtIuVgtymmtpWp",
@@ -512,7 +497,7 @@
       "version": 18,
       "versionNonce": 1024172939,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1744046588345,
       "link": null,
       "locked": false,
@@ -572,10 +557,7 @@
       ],
       "pressures": [],
       "simulatePressure": true,
-      "lastCommittedPoint": [
-        -103.33333333333326,
-        5.5555555555556
-      ]
+      "lastCommittedPoint": null
     },
     {
       "id": "KqoA5SG1iegMuad5yBQmA",
@@ -600,7 +582,7 @@
       "version": 15,
       "versionNonce": 279358315,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1744046590155,
       "link": null,
       "locked": false,
@@ -656,10 +638,7 @@
       ],
       "pressures": [],
       "simulatePressure": true,
-      "lastCommittedPoint": [
-        220,
-        -4.444444444444457
-      ]
+      "lastCommittedPoint": null
     },
     {
       "id": "TY8TfoWO-zEJ_beuPRebT",
@@ -684,7 +663,7 @@
       "version": 34,
       "versionNonce": 1124595845,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1744046656050,
       "link": null,
       "locked": false,
@@ -816,10 +795,7 @@
       ],
       "pressures": [],
       "simulatePressure": true,
-      "lastCommittedPoint": [
-        6.6666666666667425,
-        -6.666666666666629
-      ]
+      "lastCommittedPoint": null
     },
     {
       "id": "o9bFMOXmZ7F4feZ76QPKM",
@@ -844,7 +820,7 @@
       "version": 23,
       "versionNonce": 877720293,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1744046615157,
       "link": null,
       "locked": false,
@@ -940,17 +916,14 @@
       ],
       "pressures": [],
       "simulatePressure": true,
-      "lastCommittedPoint": [
-        18.888888888888914,
-        64.44444444444446
-      ]
+      "lastCommittedPoint": null
     }
   ],
   "appState": {
     "gridSize": 20,
     "gridStep": 5,
     "gridModeEnabled": false,
-    "viewBackgroundColor": "#ffffff"
+    "viewBackgroundColor": "#333"
   },
   "files": {}
 }

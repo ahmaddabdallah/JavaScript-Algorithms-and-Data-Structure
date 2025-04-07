@@ -26,7 +26,7 @@ Object.keys(ObjectPairs);
 Object.values(ObjectPairs);
 
 // Object.entries() - O(n)
-Object.entries(ObjectPairs)
+Object.entries(ObjectPairs);
 
 console.log(ObjectPairs);
 

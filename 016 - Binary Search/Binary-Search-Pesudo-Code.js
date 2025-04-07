@@ -19,9 +19,6 @@ Binary Search Algorithm:
 */
 
 function binarySearch(arr, target) {
-  // Time Complexity: O(log n) - where n is the number of elements in the array
-  // Space Complexity: O(1) - only using a constant amount of extra space
-  // const arr1 = [1, 2, 3, 4, 5];
   let leftIndex = 0;
   let rightIndex = arr.length - 1;
 

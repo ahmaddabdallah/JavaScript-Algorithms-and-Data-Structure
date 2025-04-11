@@ -4,9 +4,9 @@
     ---------------------------------
 */
 
-class Node {
-  constructor(value) {
-    this.value = value;
+class Node{
+  constructor(data) {
+    this.data = data;
     this.next = null;
   }
 }

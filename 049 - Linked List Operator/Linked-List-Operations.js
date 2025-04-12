@@ -30,10 +30,24 @@ class LinkedList {
     if (this.isEmpty()) {
       this.head = node;
     } else {
-      this.next = this.head;
+      node.next = this.head; // Important Note #
       this.head = node;
     }
     this.size++;
+  }
+
+  print() {
+    if (this.isEmpty()) {
+      return 'The List is Empty !!';
+    } else {
+      let current = this.head;
+      let listValue = '';
+      while (current) {
+        listValue += `${current.value} `;
+        current = current.next;
+      }
+      return listValue.trim();
+    }
   }
 }
 
@@ -43,5 +57,7 @@ nodeOne.pushMethod(10);
 nodeOne.pushMethod(20);
 nodeOne.pushMethod(30);
 
-console.log(nodeOne.isEmpty());
-console.log(nodeOne.getSize());
+// console.log(nodeOne.print());
+
+console.log(`Are this Linked List is Empty ? ${nodeOne.isEmpty()}`);
+console.log(`The size of the LinkedList is : ${nodeOne.getSize()}`);

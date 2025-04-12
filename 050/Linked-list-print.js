@@ -38,15 +38,15 @@ class LinkedList {
 
   print() {
     if (this.isEmpty()) {
-      return 'The List is Empty !!';
+      return 'The list is Empty !!!';
     } else {
       let current = this.head;
-      let listValue = '';
+      let listValues = '';
       while (current) {
-        listValue += `${current.value} `;
+        listValues += `${current.value} ->`;
         current = current.next;
       }
-      return listValue.trim();
+      return listValues;
     }
   }
 }
@@ -54,10 +54,11 @@ class LinkedList {
 let nodeOne = new LinkedList();
 
 nodeOne.pushMethod(10);
+// console.log(nodeOne.print());
 nodeOne.pushMethod(20);
 nodeOne.pushMethod(30);
 
-// console.log(nodeOne.print());
+console.log(nodeOne.print());
 
 console.log(`Are this Linked List is Empty ? ${nodeOne.isEmpty()}`);
 console.log(`The size of the LinkedList is : ${nodeOne.getSize()}`);

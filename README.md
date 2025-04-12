@@ -146,11 +146,18 @@ The course is organized into the following main sections:
     - Core operations
 
 26. **Linked List Operations (049)**
+
     - Advanced linked list operations
     - Traversal techniques
     - Common algorithms
 
-## Additional Topics (050-080)
+27. **Linked List Append (050-052)**
+    - Adding nodes to the end of a linked list
+    - Implementation methods
+    - Time complexity analysis
+    - Edge cases and error handling
+
+## Additional Topics (053-080)
 
 The repository includes numerous additional topics covering various algorithms and data structures, each with its own implementation and explanation.
 

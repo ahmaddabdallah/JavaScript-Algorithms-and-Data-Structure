@@ -18,7 +18,7 @@ function Factorial(n) {
   return intiValue; // Big O: O(1)
 }
 
-console.log(Factorial(5)); // Big O: O(n)
+console.log(Factorial(5)); // INFO: Big O: O(n)
 
 /* Solution 2 */
 
@@ -32,4 +32,4 @@ function FactorialTwo(n) {
   return n <= 1 ? 1 : n * FactorialTwo(n - 1); // Big O: O(n)
 }
 
-console.log(FactorialTwo(0));
+console.log(FactorialTwo(20));

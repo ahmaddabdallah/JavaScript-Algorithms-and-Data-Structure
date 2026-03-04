@@ -19,8 +19,8 @@
 */
 
 var search = function (nums, target) {
-  let leftIndex = 0;
-  let rightIndex = nums.length - 1;
+  let rightIndex = 0;
+  let leftIndex = nums.length - 1;
   while (leftIndex <= rightIndex) {
     let middle = Math.round((rightIndex + leftIndex) / 2);
 

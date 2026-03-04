@@ -1,6 +1,6 @@
 /* Prime Number */
 
-// My old Way ==> is not a true and is big (not recommended)
+// NOTE: My old Way ==> is not a true and is big (not recommended)
 
 /*
 function isPrime(n) {
@@ -18,7 +18,7 @@ function isPrime(n) {
 }
 */
 
-/* Solution */
+// INFO: Solution
 
 /*
     1- Check if number is less than or equal 2 => return false
@@ -29,11 +29,11 @@ function isPrime(n) {
 */
 
 function isPrime(n) {
-  if (n < 2) return false; // Big O(1)
-  for (let i = 2; i <= Math.sqrt(n); i++) {
-    if (n % i === 0) return false; // Big O(n)
-  }
-  return true; // Big O(1)
+    if (n < 2) return false; // Big O(1)
+    for (let i = 2; i <= Math.sqrt(n); i++) {
+        if (n % i === 0) return false; // Big O(n)
+    }
+    return true; // Big O(1)
 }
 
 // Test Cases

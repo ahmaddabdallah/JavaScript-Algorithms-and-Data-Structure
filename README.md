@@ -177,7 +177,6 @@ To use this repository:
 
 - Basic understanding of JavaScript
 - Familiarity with programming concepts
-- https://github.com/ahmaddabdallah/JavaScript-Algorithms-and-Data-Structure/raw/refs/heads/main/38 - Objects/Algorithms_Java_Data_Script_and_Structure_v3.3.zip installed (for running examples)
 
 ## Contributing
 

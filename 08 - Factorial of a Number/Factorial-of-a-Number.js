@@ -10,12 +10,12 @@
 */
 
 function Factorial(n) {
-  let intiValue = 1; // Big O: O(1)
-  for (let i = 2; i <= n; i++) {
-    // Big O: O(n)
-    intiValue *= i; // Big O: O(1)
-  }
-  return intiValue; // Big O: O(1)
+    let intiValue = 1; // Big O: O(1)
+    for (let i = 2; i <= n; i++) {
+        // Big O: O(n)
+        intiValue *= i; // Big O: O(1)
+    }
+    return intiValue; // Big O: O(1)
 }
 
 console.log(Factorial(5)); // INFO: Big O: O(n)
@@ -29,7 +29,7 @@ console.log(Factorial(5)); // INFO: Big O: O(n)
 */
 
 function FactorialTwo(n) {
-  return n <= 1 ? 1 : n * FactorialTwo(n - 1); // Big O: O(n)
+    return n <= 1 ? 1 : n * FactorialTwo(n - 1); // Big O: O(n)
 }
 
 console.log(FactorialTwo(20));
